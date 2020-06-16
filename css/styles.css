@@ -93,11 +93,16 @@ body .boxes-wrapper .left-box .description-wrapper {
 }
 
 body .boxes-wrapper .left-box .description-wrapper .description {
-  color: gray;
+  color: #4e4e4e;
   font-size: 0.5rem;
   text-align: justify;
   margin: 0px;
   padding: 15px;
+}
+
+body .boxes-wrapper .left-box .description-wrapper .description .developer {
+  text-decoration: none;
+  color: blue;
 }
 
 body .boxes-wrapper .right-box {
