@@ -102,7 +102,7 @@ body .boxes-wrapper .left-box .description-wrapper .description {
 }
 
 body .boxes-wrapper .right-box {
-  background-color: pink;
+  background-color: #ccafaf;
   width: 50%;
   display: -webkit-box;
   display: -ms-flexbox;
