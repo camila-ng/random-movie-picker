@@ -154,4 +154,31 @@ body .boxes-wrapper .right-box .right-box-wrapper .movie-description {
   text-align: justify;
   letter-spacing: 0.3px;
 }
+
+@media (max-width: 700px) {
+  body .boxes-wrapper {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  body .boxes-wrapper .left-box {
+    width: 100%;
+  }
+  body .boxes-wrapper .left-box .box-wrapper .page-title {
+    width: 100%;
+  }
+  body .boxes-wrapper .right-box {
+    width: 100vw;
+  }
+  body .boxes-wrapper .right-box .right-box-wrapper {
+    width: 100%;
+  }
+  body .boxes-wrapper .right-box .right-box-wrapper .image {
+    border-radius: 0px;
+  }
+  body .boxes-wrapper .right-box .right-box-wrapper .movie-title {
+    text-align: center;
+  }
+}
 /*# sourceMappingURL=styles.css.map */

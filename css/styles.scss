@@ -102,3 +102,31 @@ body {
         }
     }
 }
+
+@media (max-width: 700px){
+   body{
+    .boxes-wrapper {
+        flex-direction: column;
+        .left-box{
+            width: 100%;
+            .box-wrapper {
+            .page-title {
+                width: 100%;
+            }
+        }
+    }
+        .right-box{
+            width: 100vw;;
+            .right-box-wrapper{
+                width: 100%;
+                .image{
+                    border-radius: 0px;
+                }
+                .movie-title{
+                    text-align: center;
+                }
+            }
+        }
+    }
+}
+}
