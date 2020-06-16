@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Bungee+Hairline&display=swap");
+body {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+body .boxes-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+body .boxes-wrapper .left-box {
+  width: 50%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 100%;
+}
+
+body .boxes-wrapper .left-box .box-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 100%;
+}
+
+body .boxes-wrapper .left-box .box-wrapper .page-title {
+  font-family: "Bungee Hairline";
+  width: 50%;
+  font-size: 2.9rem;
+  margin: 0;
+  text-align: center;
+  line-height: 1;
+}
+
+body .boxes-wrapper .left-box .box-wrapper .button {
+  border: 0.1em solid #ccafaf;
+  border-radius: 0.12em;
+  margin-top: 20px;
+  color: #000000;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  background-color: #ccafaf;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+  padding: 12px 35px;
+}
+
+body .boxes-wrapper .left-box .box-wrapper .button:hover {
+  background-color: #a57373;
+}
+
+body .boxes-wrapper .left-box .description-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  margin: 0px;
+}
+
+body .boxes-wrapper .left-box .description-wrapper .description {
+  width: 70%;
+  color: gray;
+  font-size: 0.5rem;
+  text-align: justify;
+  margin: 0px;
+  padding: 15px;
+}
+
+body .boxes-wrapper .right-box {
+  background-color: pink;
+  width: 50%;
+}
+/*# sourceMappingURL=styles.css.map */
