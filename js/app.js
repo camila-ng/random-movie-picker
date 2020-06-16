@@ -55,7 +55,6 @@ let movies = [
 button.addEventListener('click', function () {
     let randomMovie = movies[Math.floor(Math.random() * movies.length)];
     imageMovie.style.backgroundImage = `url('${randomMovie.image}')`
-    imageMovie.style.backgroundSize = 'cover';
     title.innerText = randomMovie.title;
     movieDescription.innerText = randomMovie.description;
 })
