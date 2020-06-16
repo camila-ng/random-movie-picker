@@ -81,7 +81,7 @@ let movies = [
         description: 'En Italia, en la década de 1980, en medio del esplendor del verano, Elio y Oliver descubren la embriagadora belleza de un deseo naciente que va a alterar sus vidas para siempre.    '
     },
     {
-        image: 'https://m.media-amazon.com/images/M/MV5BMjM3MzY4ODg4NF5BMl5BanBnXkFtZTgwMzY5OTY5NjE@._V1_.jpg',
+        image: 'https://indiehoy.com/wp-content/uploads/2016/01/Macbeth.jpg',
         title: 'Macbeth',
         description: 'El general Macbeth celebra victoria tras victoria. Un día escucha la profecía de tres mujeres que le dicen que pronto va a convertirse en el rey de Escocia. Su mujer, Lady Macbeth, le fuerza a matar el rey y así ascender al trono. A partir de ese momento, Macbeth es perseguido por sentimientos de culpabilidad y paranoia y se convierte en un tirano. El nuevo rey sigue cometiendo más asesinatos hasta el punto de provocar una guerra civil.'
     },
