@@ -120,7 +120,14 @@ let movies = [
 
 ]
 
-
+const imagePreloader = () =>{
+    movies.forEach(movieObject =>{
+        const loaded = new Image();
+        loaded.src = movieObject.image
+        console.log(loaded)
+    })
+}
+imagePreloader()
 
 button.addEventListener('click', function () {
     let randomMovie = movies[Math.floor(Math.random() * movies.length)];
