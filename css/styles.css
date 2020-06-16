@@ -51,7 +51,7 @@ body .boxes-wrapper .left-box .box-wrapper {
 }
 
 body .boxes-wrapper .left-box .box-wrapper .page-title {
-  font-family: "Bungee Hairline";
+  font-family: "Bungee Hairline", sans-serif;
   width: 50%;
   font-size: 3rem;
   margin: 0;
@@ -143,7 +143,7 @@ body .boxes-wrapper .right-box .right-box-wrapper .image {
 }
 
 body .boxes-wrapper .right-box .right-box-wrapper .movie-title {
-  font-family: 'roboto';
+  font-family: 'roboto', sans-serif;
   font-size: 1.5rem;
   color: #272727;
 }
