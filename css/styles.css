@@ -170,6 +170,7 @@ body .boxes-wrapper .right-box .right-box-wrapper .movie-description {
   }
   body .boxes-wrapper .right-box {
     width: 100vw;
+    height: 100vh;
   }
   body .boxes-wrapper .right-box .right-box-wrapper {
     width: 100%;
