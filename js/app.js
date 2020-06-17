@@ -124,7 +124,6 @@ const imagePreloader = () =>{
     movies.forEach(movieObject =>{
         const loaded = new Image();
         loaded.src = movieObject.image
-        console.log(loaded)
     })
 }
 imagePreloader()
