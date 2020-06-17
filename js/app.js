@@ -133,7 +133,6 @@ let randomNumber
 button.addEventListener('click', function () {
     let newNumber = Math.floor(Math.random() * movies.length); 
     while(randomNumber === newNumber){ 
-        debugger
         newNumber = Math.floor(Math.random() * movies.length); 
     }
     randomNumber = newNumber;
