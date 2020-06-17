@@ -120,7 +120,13 @@ let movies = [
 
 ]
 
-
+const imagePreloader = () =>{
+    movies.forEach(movieObject =>{
+        const loaded = new Image();
+        loaded.src = movieObject.image
+    })
+}
+imagePreloader()
 
 let randomNumber
 
