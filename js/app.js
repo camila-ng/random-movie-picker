@@ -60,7 +60,7 @@ let movies = [
         description: 'Un joven extraño a menudo es visitado por un conejo profético, que como él, aguarda el inminente fin del mundo.'
     },
     {
-        image: 'https://pics.filmaffinity.com/Las_v_rgenes_suicidas-415529694-large.jpg',
+        image: 'https://miro.medium.com/max/1108/1*6immeOlOQfMyd21zf62MuA.jpeg',
         title: 'The Virgin Suicides',
         description: 'Hombres recuerdan a cinco hermanas intrigantes, cuyos padres las mantuvieron en cuarentena después del suicidio de una de ellas.'
     },
