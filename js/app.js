@@ -222,7 +222,7 @@ let movies = [
         description: 'Nueva York, 1958, Diane Arbus es una ama de casa que trabaja como asistente de su marido. Su vida transcurre cómoda y tranquila, hasta que un nuevo vecino se muda al barrio y capta la atención de Diane. La llegada de este hombre la lleva a descubrir su propio talento y a transgredir las costumbres de la época.        '
     },
     {
-        image: 'https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/sphe-holiday_1938-Full-Image_GalleryBackground-en-US-1513375895563._SX1080_.jpg',
+        image: 'https://www.critikat.com/wp-content/uploads/fly-images/37275/arton2268-1450x800-c.jpg',
         title: 'Holiday',
         description: 'Un hombre inconformista pasa las vacaciones con la hermana de su novia, que está obsesionada con la riqueza. Este hombre poco ortodoxo pronto descubre que tiene más cosas en común con la pequeña hermana rebelde que con la mujer que lo ama.        '
     },
