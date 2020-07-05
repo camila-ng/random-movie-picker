@@ -96,7 +96,7 @@ let movies = [
         description: 'Casa de tolerancia es un drama francés que retrata cómo se vivía antiguamente en lo que hoy en día llamamos prostíbulos. Ambientada en el siglo XIX, la película se centra en los abusos y comportamientos indeseables de los clientes, concretamente en el trágico suceso que desfigura a una chica.'
     },
     {
-        image: 'https://media.newyorker.com/photos/5909745f019dfc3494ea28bf/master/pass/Brody-AMasterfulEmilyDickinsonMovie2.jpg',
+        image: 'https://static01.nyt.com/images/2017/04/14/arts/0414QUIET-PRINT/0414QUIET-PRINT-articleLarge.jpg?quality=75&auto=webp&disable=upscale',
         title: 'A quiet passion',
         description: 'La gran poeta Emily Dickinson pasó la mayor parte de su vida en casa de sus padres en Amherst, Massachusetts. La mansión en la que vivió sirve de telón de fondo al retrato de una mujer nada convencional de la que se sabe muy poco.'
     },
