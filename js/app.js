@@ -138,7 +138,7 @@ let movies = [
     },
     {
         image: 'https://cartelera.elpais.com/assets/uploads/2019/07/26030114/F_00893.jpg',
-        title: 'La doble vida de Verónica (La double vie de Véronique)',
+        title: 'La doble vida de Verónica',
         description: 'Dos niñas nacen en dos ciudades diferentes, en Francia y en Polonia. Sus familias nunca se conocieron, sin embargo son iguales: zurdas, una voz magnífica, la misma malformación cardiaca difícilmente detectable. '
     },
     {
